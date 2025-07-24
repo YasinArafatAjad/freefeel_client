@@ -1,0 +1,96 @@
+/* English Font */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+/* Bangla Font */
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali:wght@100..900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  max-width: 100%;
+  overflow-x: hidden;
+  box-sizing: border-box;
+}
+
+.react-tel-input > input {
+  width: 674px !important;
+  height: 48px !important;
+  background-color: #e5e7eb !important;
+  padding-left: 55px !important;
+}
+
+.react-tel-input > div.flag-dropdown,
+selected-flag,
+flag {
+  width: 48px !important;
+  height: 48px !important;
+  background-color: #cdcece !important;
+  padding-left: 5px !important;
+}
+
+.table-cart :where(th, td) {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+}
+
+@media only screen and (max-width: 600px) {
+  .react-tel-input > input {
+    width: 100% !important;
+    height: 48px !important;
+    background-color: #e5e7eb !important;
+    padding-left: 55px !important;
+  }
+}
+
+
+.checkbox{
+  border: 1px solid;
+}
+
+/* Custom scrollbar */
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #1e293b;
+}
+::-webkit-scrollbar-thumb {
+  background: #ff0000;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #eb3b3b;
+}
+
+/* Smooth animations */
+* {
+  transition: transform 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+/* Image optimization */
+img {
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: crisp-edges;
+}
+
+/* Prevent layout shift */
+.container {
+  contain: layout style paint;
+}
+
+/* tittle blur text */
+.blur-text {
+  flex-wrap: nowrap !important;
+}
+/* categorieItem  */
+.categorieItem .lazy-load-image-loaded {
+  display: block !important;
+} 

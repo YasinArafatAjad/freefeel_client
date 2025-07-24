@@ -1,0 +1,334 @@
+{
+  "navOptions": {
+    "home": "হোম"
+  },
+
+  "header": {
+    "title": "আমাদের ওয়েবসাইটে স্বাগতম",
+    "subtitle": "সেরা অফার পেতে আজই যোগদান করুন"
+  },
+
+  "navbarSearch": {
+    "theme": "থিম",
+    "signUp": "সাইনআপ",
+    "logIn": "লগইন",
+    "placeholder": "এখানে আপনার পছন্দের প্রডাক্ট সার্চ করুন",
+    "profile": "প্রোফাইল",
+    "logout": "লগ আউট",
+    "loggedOutSuccessMessage": "সফলভাবে লগআউট হয়েছে!",
+    "loggedOutFailedMessage": "লগআউট ব্যর্থ হয়েছে!"
+  },
+
+  "bottomNavbar": {
+    "home": "হোম",
+    "cart": "কার্ট",
+    "call": "কল",
+    "theme": "থিম",
+    "profile": "প্রোফাইল",
+    "account": "একাউন্ট",
+    "dashboard": "ড্যাশবোর্ড ",
+    "signUp": "সাইনআপ",
+    "logIn": "লগইন",
+    "logout": "লগ আউট",
+    "loggedOutSuccessMessage": "সফলভাবে লগআউট হয়েছে!",
+    "loggedOutFailedMessage": "লগআউট ব্যর্থ হয়েছে!"
+  },
+
+  "emailSignUp": {
+    "title": "নতুন একাউন্ট তৈরি করুন",
+    "namePlaceholder": "সম্পূর্ণ নাম লিখুন",
+    "emailPlaceholder": "ই-মেইল লিখুন",
+    "passwordPlaceholder": "নতুন পাসওয়ার্ড লিখুন",
+    "confirmPasswordPlaceholder": "পুণরায় পাসওয়ার্ড লিখুন",
+    "passwordInstructions": "পাসওয়ার্ড লেখার সময় সিম্বল, ছোট হাতের/বড় হাতের অক্ষর, সংখ্যা ব‍্যবহার করুন",
+    "signUpButton": "সাইনআপ",
+    "emailSignInPageNavigateInstruction": "ইতিমধ্যে একাউন্ট আছে? ",
+    "clickHere": "এখানে চাপুন",
+    "existUserMessage": "আপনার ইতিমধ্যেই একটি অ্যাকাউন্ট আছে। অনুগ্রহ করে লগ ইন করুন।",
+    "emailVerifyMessage": "রেজিস্ট্রেশন সম্পূর্ণ করতে আপনার ইমেইল চেক করুন এবং ভেরিফিকেশন করুন!",
+    "howToSignUp": "কিভাবে সাইনআপ  করবেন তা দেখতে এখানে ক্লিক করুন"
+  },
+
+  "emailSignIn": {
+    "title": "আপনার একাউন্ট লগইন করুন",
+    "emailPlaceholder": "ই-মেইল লিখুন",
+    "passwordPlaceholder": "পাসওয়ার্ড লিখুন",
+    "forgotPasswordPageNavigateInstruction": "পাসওয়ার্ড ভুলে গেলে",
+    "signInButton": "লগইন করুন",
+    "emailSignUpPageNavigateInstruction": "আপনার কি কোনো একাউন্ট নেই?",
+    "clickHere": "এখানে চাপুন",
+    "emailVerifyMessage": "আপনার ইমেইল চেক করুন। ভেরিফিকেশন ইমেইল পাঠানো হয়েছে।",
+    "emailNotRegisterMessage": "এই ইমেলটি রেজিস্ট্রেশন করা নেই। অনুগ্রহ করে সাইন আপ করুন।",
+    "loginSuccessMessage": "স্বাগতম! লগইন সফল!",
+    "howToSignIn": "লগইন করার নিয়ম",
+    "rememberMe": "পাসওয়ার্ডটি মনে রাখুন"
+  },
+
+  "googleSignUp": {
+    "loadingText": "আপেক্ষা করুন, লগইন হচ্ছে",
+    "buttonText": "গুগল দিয়ে লগইন করুন"
+  },
+  "fbSignUp": {
+    "loadingText": "আপেক্ষা করুন, লগইন হচ্ছে",
+    "buttonText": "ফেসবুক দিয়ে লগইন করুন"
+  },
+
+  "forgot": {
+    "title": "রিসেট ইওর পাসওয়ার্ড",
+    "emailPlaceholder": "ই-মেইল লিখুন",
+    "resetPassword": "পাসওয়ার্ড রিসেট করুন",
+    "cancel": "ক‍্যানছেল",
+    "resetEmailSendMessage": "আপনাকে একটি পাসওয়ার্ড রিসেট ইমেইল পাঠানো হয়েছে। অনুগ্রহ করে আপনার ইমেইল চেক করুন।"
+  },
+
+  "customerDashboard": {
+    "customerDashboard": "কাস্টমার ড‍্যাশবোর্ড",
+    "accountDetails": "একাউন্ট ডিটেলস",
+    "saveProductList": "সেভ প্রোডাক্ট লিষ্ট",
+    "orderHistory": "অর্ডার হিস্টোরি",
+    "orderRating": "প্রোডাক্ট রেটিং",
+    "myRefer": "আমার রেফার ",
+    "yourPoints": "অর্জিত পয়েন্ট",
+    "contactWithUs": "কল করুন",
+    "updateAccount": "আপডেট একাউন্ট",
+    "yourFullName": "আপনার সম্পূর্ণ নাম",
+    "gender": "লিঙ্গ",
+    "email": "ই-মেইল",
+    "mobileNumber": "মোবাইল নাম্বার",
+    "dateOfBirth": "জন্ম তারিখ",
+    "fullAddress": "সম্পূর্ণ ঠিকানা",
+    "country": "দেশ",
+    "savedProductsList": "সেভ প্রোডাক্ট লিষ্ট",
+    "logout": "লগ আউট"
+  },
+
+  "youPoints": {
+    "instructionOne": "অভিনন্দন আপনার অর্জিত পয়েন্টের জন্য, এই পয়েন্ট কেনাকাটা ব্যবহার করতে চাইলে, আপনার রেজিস্ট্রেশনকৃত মোবাইল নাম্বার দিয়ে কল করুন,",
+    "instructionTwo": "আমাদের প্রতিনিধি আপনাকে সেবা দেওয়ার জন্য সর্বদা প্রস্তুত।"
+  },
+
+  "myRefer": {
+    "yourReferCode": "আপনার রেফার কোড",
+    "instructionOne": "বন্ধুবান্ধব-আত্মীয়-স্বজন পাড়া-প্রতিবেশী কে 'FREEFEEL' থাকে কেনাকাটার জন্য রেফার করলেই পারছেন",
+    "instructionTwo": "পয়েন্ট আর প্রতি পয়েন্টের মূল্য 2 টাকা যা পরবর্তী কেনাকাটা ব্যবহার করতে পারবেন",
+    "apply": "এপ্লাই",
+    "placeholder": "এখন এ রেফার কোড  লিখুন",
+    "shareReferLink": "রেফার লিংক শেয়ার করুন"
+  },
+
+  "orderHistory": {
+    "orderId": "অর্ডার আইডি",
+    "date": "অর্ডার তারিখ",
+    "products": "প্রোডাক্টস",
+    "amount": "অ্যামাউন্ট",
+    "deliveryStatus": "ডেলিভারি স্ট্যাটাস",
+    "paymentStatus": "পেমেন্ট স্ট্যাটাস",
+    "action": "অ্যাকশন",
+    "yourOrders": "আপনার অর্ডার",
+    "searchPlaceholder": "ট্র্যাকিং নাম্বার দ্বারা খুঁজুন",
+    "allOrders": "সকল অর্ডার",
+    "show": "দেখান"
+  },
+
+  "productDetails": {
+    "productCode": "প্রোডাক্ট কোড",
+    "availability": "এভ্যাইলেবিলিটি",
+    "orderNowLink": "অর্ডার করুন",
+    "shopNowLink": "শপিং করুন",
+    "addToCart": "অ‍্যাড টু কার্ট",
+    "productDetails": "প্রোডাক্ট ডিটেলস",
+    "productDescription": "ডেসক্রিপশন",
+    "customerReview": "কাস্টমার রিভিউ",
+    "sizeGuideline": "সাইজ গাইডলাইন",
+    "howToOrder": "কিভাবে অর্ডার করবেন তা দেখতে এখানে ক্লিক করুন",
+    "productAddToCartConfirmationTittle": "সফলভাবে কার্টে যোগ করা হয়েছে!",
+    "productAddToCartFailedTittle": "কার্টে যোগ করতে ব্যর্থ হয়েছে!",
+    "shareNow": "শেয়ার করে রাখুন",
+    "home": "হোম",
+    "productReviewBenefitMessage": "প্রোডাক্ট সম্পর্কে সঠিক রিভিউ দিন। প্রতি ১০০ টাকা কেনাকাটায় ২ পয়েন্ট, প্রতি পয়েন্টের মূল্য ২ টাকা। যা পরবর্তী কেনাকাটায় ব্যবহার করতে পারবেন।"
+  },
+
+  "postReview": {
+    "title": "আপনার মতামত এবং প্রোডাক্ট রেটিং",
+    "yourName": "আপনার নাম",
+    "orderId": "অর্ডার আইডি",
+    "purchaseDate": "প্রোডাক্ট কেনার তারিখ",
+    "comment": "প্রোডাক্ট সম্পর্কে আপনার মতামত এখানে লিখুন",
+    "submit": "সাবমিট",
+    "loginMessage": "দয়াকরে প্রথমে লগইন করুন।"
+  },
+
+  "relatedProducts": {
+    "relatedProducts": "রিলেটেড প্রোডাক্ট"
+  },
+
+  "invoice": {
+    "orderNumber": "অর্ডার নাম্বার",
+    "date": "অর্ডার তারিখ",
+    "paymentType": "পেমেন্ট টাইপ",
+    "image": "ছবি",
+    "productName": "পোডাক্ট নাম",
+    "size": "সাইজ",
+    "color": "কালার",
+    "quantity": "পরিমান",
+    "price": "দাম",
+    "priceIncludeQuantity": "মোট পরিমাণ সহ দাম",
+    "only": "মাত্র",
+    "pcs": "পিস",
+    "deliveryCharge": "ডেলিভারি চার্জ",
+    "totalCost": "মোট খরচ",
+    "insideOfDhaka": "ঢাকার ভিতরে",
+    "outsideOfDhaka": "ঢাকার বাহিরে"
+  },
+
+  "cart": {
+    "title": "শপিং কার্ট",
+    "image": "ছবি",
+    "productName": "পোডাক্ট নাম",
+    "size": "সাইজ",
+    "color": "কালার",
+    "quantity": "পরিমান",
+    "price": "দাম",
+    "cancel": "ক‍্যানছেল",
+    "priceIncludeQuantity": "মোট পরিমাণ সহ দাম",
+    "only": "মাত্র",
+    "pcs": "পিস",
+    "tk": "৳",
+    "checkOutLink": "চেক আউট",
+    "noItemMessage": "আপনার শপিং কার্টে কোন প্রোডাক্ট নেই!",
+    "continueShoppingLink": "শপিং করুন",
+    "cancelConfirmationTitle": "আপনি কি নিশ্চিত?",
+    "cancelConfirmationText": "আপনি কি এই পণ্যটি আপনার কার্ট থেকে ক‍্যানছেল করতে চান?",
+    "cancelConfirmButton": "হ্যাঁ, ক‍্যানছেল করুন!",
+    "cancelCancelButton": " না, রাখুন",
+    "productCancelConfirmationText": "পণ্যটি কার্ট থেকে ক‍্যানছেল করা হয়েছে!",
+    "productCancelFailedText": "পণ্য ক‍্যানছেল করতে ব্যর্থ!",
+    "productCancelErrorText": "একটি ত্রুটি ঘটেছে। দয়া করে আবার চেষ্টা করুন।",
+    "okayButton": "ঠিক আছে"
+  },
+
+  "checkout": {
+    "title": "আপনার অর্ডার",
+    "image": "ছবি",
+    "productName": "পোডাক্ট নাম",
+    "size": "সাইজ",
+    "color": "কালার",
+    "quantity": "পরিমান",
+    "price": "দাম",
+    "cancel": "ক‍্যানছেল",
+    "discountCode": "ডিসকাউন্ট কোড",
+    "placeholder": "এখানে লিখুন",
+    "button": "এপ্লাই",
+    "priceIncludeQuantity": "মোট পরিমাণ সহ দাম",
+    "only": "মাত্র",
+    "pcs": "পিস",
+    "tk": "৳",
+    "deliveryLocation": "ডেলিভারি লোকেশন",
+    "totalCost": "মোট খরচ",
+    "subTotal": "সাব-টোটাল ",
+    "deliveryFee": "ডেলিভারি ফী",
+    "discount": "ডিসকাউন্ট",
+    "insideOfDhaka": "ঢাকার ভিতরে",
+    "outsideOfDhaka": "ঢাকার বাহিরে",
+    "freeDelivery": "ফ্রি ডেলিভারি",
+    "orderNowLink": "অর্ডার করুন",
+    "paymentMethod": "পেমেন্ট মেথড",
+    "cashOnDelivery": "ক্যাশ অন ডেলিভারি",
+    "allProductsCancellingTitle": "আপনি সকল প্রোডাক্ট ক‍্যানছেল করছেন।",
+    "allProductsCancellingText": "নতুন করে প্রোডাক্ট সিলেক্ট করে অর্ডার করুন। ধন্যবাদ।",
+    "cancelConfirmationTitle": "আপনি কি নিশ্চিত?",
+    "cancelConfirmationText": "আপনি কি এই পণ্যটি আপনার অর্ডার লিস্ট থেকে ক‍্যানছেল করতে চান?",
+    "cancelConfirmButton": "হ্যাঁ, ক‍্যানছেল করুন!",
+    "cancelCancelButton": " না, রাখুন",
+    "productCancelConfirmationText": "পণ্যটি অর্ডার লিস্ট থেকে ক‍্যানছেল করা হয়েছে!",
+    "productCancelFailedText": "পণ্যটি ক‍্যানছেল করতে ব্যর্থ!",
+    "productCancelErrorText": "একটি ত্রুটি ঘটেছে। দয়া করে আবার চেষ্টা করুন।",
+    "okayButton": "ঠিক আছে",
+    "productDeliveryLocationWarningMessage": "আপনার পণ্য ডেলিভারির লোকেশন নির্বাচন করুন।",
+    "helpingMessage": "অর্ডার করতে সমস্যা হলে কল করুন"
+  },
+
+  "billingAddress": {
+    "title": "প্রোডাক্ট পাঠানোর ঠিকানা",
+    "nameLabel": "সম্পূর্ণ নাম লিখুন",
+    "numberLabel": "মোবাইল নাম্বার",
+    "addressLabel": "প্রোডাক্ট পাঠানো ঠিকানা (এরিয়া / সেক্টর / হাউস / রোড)",
+    "zillaLabel": "জেলা",
+    "thanaLabel": "থানা",
+    "commentLabel": "অর্ডার নোট (অপশনাল)",
+    "namePlaceholder": "আপনার পুরো নাম দিন।",
+    "addressPlaceholder": "আপনাকে সহজে খুঁজে পাওয়া যাবে এমন একটি ঠিকানা লিখুন",
+    "zillaPlaceholder": "আপনার জেলার নাম লিখুন।",
+    "thanaPlaceholder": "আপনার থানার নাম লিখুন।",
+    "commentPlaceholder": "আপনার কিছু বলার থাকলে এইখানে লিখুন",
+    "submitButton": "সাবমিট করুন",
+    "orderSuccessInstructions": "অর্ডার শতভাগ কনর্ফাম করার জন্য আপনার মোবাইল নম্বরে ৪ সংখ‍্যার ওটিপি কোড পাঠানো হবে",
+    "helpingMessage": "অর্ডার করতে সমস্যা হলে কল করুন",
+    "selectZilla": "জিলা সিলেক্ট করুন",
+    "selectThana": "থানা সিলেক্ট করুন"
+  },
+
+  "popularCategoriesHome": {
+    "title": "পপুলার ক্যাটেগরী",
+    "items": "আইটেম"
+  },
+
+  "productsByCategory": {
+    "default": "ডিফল্ট",
+    "priceHighToLow": "মূল্য: বেশি থেকে কম",
+    "priceLowToHigh": "মূল্য: কম থেকে বেশি",
+    "mostPopular": "মোস্ট পপুলার",
+    "newArrivals": "নিউ এরাইভালস",
+    "filtersAndSort": "ফিল্টার ও সর্ট",
+    "home": "হোম"
+  },
+
+  "allProductsHome": {
+    "title": "সকল প্রোডাক্ট",
+    "showMoreProducts": "আরও প্রোডাক্ট দেখুন",
+    "seePreviousProducts": "পেছনের প্রোডাক্ট দেখুন"
+  },
+
+  "newArrivalSlideHome": {
+    "title": "নতুন প্রোডাক্ট"
+  },
+
+  "mostPopularSlideHome": {
+    "title": "মোস্ট পপুলার প্রোডাক্ট"
+  },
+
+  "featureHome": {
+    "featureTitle1": "সময় মত ডেলিভারি",
+    "featureTitle2": "ফ্রি শিপিং",
+    "featureTitle3": "২৪ / ৭ সাপোর্ট",
+    "featureTitle4": "সহজ পেমেন্ট",
+    "featureTitle5": "সেফ চেক আউট",
+    "featureTitle6": "এক্সক্লুসিভ ডিল"
+  },
+
+  "contact": {
+    "contactUsTitle": "আমাদের সাথে যোগাযোগের মাধ্যম",
+    "contactFormTitle": "আমাদের কিছু জানতে চাইলে এখানে লিখুন",
+    "namePlaceholder": "আপনার নাম লিখুন",
+    "emailPlaceholder": "আপনার ই-মেইল লিখুন",
+    "numberPlaceholder": "মোবাইল নাম্বার লিখুন",
+    "messagePlaceholder": "যে বিষয়ে লিখতে চান তা এখানে লিখুন",
+    "sendMessageButton": "মেসেজ পাঠান"
+  },
+
+  "footer": {
+    "aboutUs": "এবাউট আজ",
+    "contact": "কন্টাক্ট আস",
+    "intellectualProperty": "ইন্টেলেকচুয়াল প্রপার্টি",
+    "privacyPolicy": "প্রাইভেসি পলিসি",
+    "termsOfService": "টার্মস অফ সার্ভিস",
+    "refundPolicy": "রিফান্ড পলিসি",
+    "paymentPolicy": "পেমেন্ট পলিসি",
+    "shippingPolicy": "শিপিং পলিসি",
+    "signUp": "সাইনআপ",
+    "logIn": "লগইন",
+    "deliveryPartner": "ডেলিভারি পার্টনার",
+    "paymentPartner": "পেমেন্টে পার্টনার",
+    "socialMedia": "সোশ্যাল মিডিয়া"
+  }
+}

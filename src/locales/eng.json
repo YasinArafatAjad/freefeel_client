@@ -1,0 +1,333 @@
+{
+  "navOptions": {
+    "home": "HOME"
+  },
+
+  "header": {
+    "title": "Welcome to Our Website",
+    "subtitle": "Join today for the best offers"
+  },
+
+  "navbarSearch": {
+    "theme": "Theme",
+    "signUp": "SignUp",
+    "logIn": "LogIn",
+    "placeholder": "Search for your desired product here",
+    "profile": "Profile",
+    "logout": "Log Out",
+    "loggedOutSuccessMessage": "Logged Out Successfully!",
+    "loggedOutFailedMessage": "Logged Out Failed!"
+  },
+
+  "bottomNavbar": {
+    "home": "Home",
+    "cart": "Cart",
+    "call": "Call",
+    "theme": "Theme",
+    "signUp": "SignUp",
+    "logIn": "LogIn",
+    "profile": "Profile",
+    "account": "Account",
+    "dashboard": "Dashboard",
+    "logout": "Log Out",
+    "loggedOutSuccessMessage": "Logged Out Successfully!",
+    "loggedOutFailedMessage": "Logged Out Failed!"
+  },
+
+  "emailSignUp": {
+    "title": "Create a New Account",
+    "namePlaceholder": "Enter Full Name",
+    "emailPlaceholder": "Enter Email",
+    "passwordPlaceholder": "Enter New Password",
+    "confirmPasswordPlaceholder": "Re-enter Password",
+    "passwordInstructions": "While creating a password, use symbols, uppercase and lowercase letters, and numbers.",
+    "signUpButton": "Sign Up",
+    "emailSignInPageNavigateInstruction": "Already have an account? Then",
+    "clickHere": "Click Here",
+    "existUserMessage": "You already have an account. Please log in.",
+    "emailVerifyMessage": "Check your email and do verification to complete the registration!",
+    "howToSignUp": "Click here to see how to SignUp"
+  },
+
+  "emailSignIn": {
+    "title": "Log In to Your Account",
+    "emailPlaceholder": "Enter Email",
+    "passwordPlaceholder": "Enter Password",
+    "forgotPasswordPageNavigateInstruction": "Forgot your password?",
+    "signInButton": "Log In",
+    "emailSignUpPageNavigateInstruction": "Don't have an account?",
+    "clickHere": "Click Here",
+    "emailVerifyMessage": "Check your email. Verification email has been sent.",
+    "emailNotRegisterMessage": "Email not registered. Please sign up.",
+    "loginSuccessMessage": "Welcome.. Login Successful!",
+    "howToSignIn": "How to SignIn",
+    "rememberMe": "remember password."
+  },
+
+  "googleSignUp": {
+    "loadingText": "Please wait, logging in",
+    "buttonText": "Log In with Google"
+  },
+  "fbSignUp": {
+    "loadingText": "Please wait, logging in",
+    "buttonText": "Log In with Facebook"
+  },
+  "forgot": {
+    "title": "Reset Your Password",
+    "emailPlaceholder": "Enter Email",
+    "resetPassword": "Reset Password",
+    "cancel": "Cancel",
+    "resetEmailSendMessage": "A password reset email has been sent. Please check your email."
+  },
+
+  "customerDashboard": {
+    "customerDashboard": "Customer Dashboard",
+    "accountDetails": "Account Details",
+    "saveProductList": "Saved Product List",
+    "orderHistory": "Order History",
+    "orderRating": "Product Ratings",
+    "myRefer": "My Refer",
+    "yourPoints": "Your Points",
+    "contactWithUs": "Call Us",
+    "updateAccount": "Update Account",
+    "yourFullName": "Your Full Name",
+    "gender": "Gender",
+    "email": "Email",
+    "mobileNumber": "Mobile Number",
+    "dateOfBirth": "Date Of Birth",
+    "fullAddress": "Full Address",
+    "country": "Country",
+    "savedProductsList": "Saved Products List",
+    "logout": "Log Out"
+  },
+
+  "youPoints": {
+    "instructionOne": "Congratulations on your earned points! To use these points for purchases, please call using your registered mobile number,",
+    "instructionTwo": "Our representatives are always ready to assist you."
+  },
+
+  "myRefer": {
+    "yourReferCode": "Your Refer Code",
+    "instructionOne": "Refer your friends, family, and neighbors to shop at 'FREEFEEL' and earn",
+    "instructionTwo": "points. Each point is worth 2 Taka, which you can use for your next purchase.",
+    "apply": "Apply",
+    "placeholder": "Now enter this referral code.",
+    "shareReferLink": "Share Refer Link"
+  },
+
+  "orderHistory": {
+    "orderId": "Order ID",
+    "date": "Date",
+    "products": "Products",
+    "amount": "Amount",
+    "deliveryStatus": "Delivery Status",
+    "paymentStatus": "Payment Status",
+    "action": "Action",
+    "yourOrders": "Your Orders",
+    "searchPlaceholder": "Search By Tracking Number",
+    "allOrders": "All Orders",
+    "show": "Show"
+  },
+
+  "productDetails": {
+    "productCode": "Product Code",
+    "availability": "Availability",
+    "orderNowLink": "Order Now",
+    "shopNowLink": "Shop Now",
+    "addToCart": "Add To Cart",
+    "productDetails": "Product Details",
+    "productDescription": "Description",
+    "customerReview": "Customer Review",
+    "sizeGuideline": "Size Guideline",
+    "howToOrder": "Click here to see how to order",
+    "productAddToCartConfirmationTittle": "Added to cart successfully!",
+    "productAddToCartFailedTittle": "Failed to add to cart!",
+    "shareNow": "Share Now",
+    "home": "HOME",
+    "productReviewBenefitMessage": "Provide accurate reviews about products. Earn 2 points for every 100 Taka spent, with each point worth 2 Taka. Redeem these points on your next purchase."
+  },
+
+  "postReview": {
+    "title": "Your feedback and product rating",
+    "yourName": "Your Name",
+    "orderId": "Order ID",
+    "purchaseDate": "Product purchase date",
+    "comment": "Enter your feedback about the product here",
+    "submit": "Submit",
+    "loginMessage": "Please login first!"
+  },
+
+  "relatedProducts": {
+    "relatedProducts": "RELATED PRODUCTS"
+  },
+
+  "invoice": {
+    "orderNumber": "Order Number",
+    "date": "Date",
+    "paymentType": "Payment Type",
+    "image": "Image",
+    "productName": "Product Name",
+    "size": "Size",
+    "color": "Color",
+    "quantity": "Quantity",
+    "price": "Price",
+    "priceIncludeQuantity": "Price including total quantity",
+    "only": "Only",
+    "pcs": "PCS",
+    "deliveryCharge": "Delivery Charge",
+    "totalCost": "Total Cost",
+    "insideOfDhaka": "Inside of Dhaka",
+    "outsideOfDhaka": "Outside of Dhaka"
+  },
+
+  "cart": {
+    "title": "SHOPPING CART",
+    "image": "Image",
+    "productName": "Product Name",
+    "size": "Size",
+    "color": "Color",
+    "quantity": "Quantity",
+    "price": "Price",
+    "cancel": "Cancel",
+    "priceIncludeQuantity": "Price including total quantity",
+    "only": "Only",
+    "pcs": "PCS",
+    "tk": "TK",
+    "checkOutLink": "CHECK OUT",
+    "noItemMessage": "There are no products in your shopping cart!",
+    "continueShoppingLink": "Continue Shopping",
+    "cancelConfirmationTitle": "Are you sure?",
+    "cancelConfirmationText": "Do you want to cancel this product from your cart?",
+    "cancelConfirmButton": "Yes, cancel it!",
+    "cancelCancelButton": "No, keep it",
+    "productCancelConfirmationText": "Product canceled from cart!",
+    "productCancelFailedText": "Failed to cancel product!",
+    "productCancelErrorText": "An error occurred. Please try again.",
+    "okayButton": "OK"
+  },
+
+  "checkout": {
+    "title": "YOUR ORDER",
+    "image": "Image",
+    "productName": "Product Name",
+    "size": "Size",
+    "color": "Color",
+    "quantity": "Quantity",
+    "price": "Price",
+    "cancel": "Cancel",
+    "discountCode": "Discount Code",
+    "placeholder": "Write Here",
+    "button": "Apply",
+    "priceIncludeQuantity": "Price including total quantity",
+    "only": "Only",
+    "pcs": "PCS",
+    "tk": "TK",
+    "deliveryLocation": "Delivery Location",
+    "totalCost": "Total Cost",
+    "subTotal": "Sub-Total",
+    "deliveryFee": "Delivery Fee",
+    "discount": "Discount",
+    "insideOfDhaka": "Inside Dhaka",
+    "outsideOfDhaka": "Outside Dhaka",
+    "freeDelivery": "Free Delivery",
+    "orderNowLink": "ORDER NOW",
+    "paymentMethod": "Payment Method",
+    "cashOnDelivery": "Cash on Delivery",
+    "allProductsCancellingTitle": "You are canceling all products.",
+    "allProductsCancellingText": "Select a new product and order. Thank you.",
+    "cancelConfirmationTitle": "Are you sure?",
+    "cancelConfirmationText": "Do you want to cancel this product from your order?",
+    "cancelConfirmButton": "Yes, cancel it!",
+    "cancelCancelButton": "No, keep it",
+    "productCancelConfirmationText": "Product canceled from order!",
+    "productCancelFailedText": "Failed to cancel product!",
+    "productCancelErrorText": "An error occurred. Please try again.",
+    "okayButton": "OK",
+    "productDeliveryLocationWarningMessage": "Kindly Select Your Product Delivery Location",
+    "helpingMessage": "Need help ordering? CALL US"
+  },
+
+  "billingAddress": {
+    "title": "BILLING ADDRESS",
+    "nameLabel": "Enter Full Name",
+    "numberLabel": "Mobile Number",
+    "addressLabel": "Shipping Address (Area / Sector / House / Road)",
+    "zillaLabel": "Zilla",
+    "thanaLabel": "Thana",
+    "commentLabel": "Order Note (Optional)",
+    "namePlaceholder": "Please provide your full name",
+    "addressPlaceholder": "Provide an address where you can be easily found",
+    "zillaPlaceholder": "Please write your zilla name",
+    "thanaPlaceholder": "Please write your thana name",
+    "commentPlaceholder": "Write here if you have any comments",
+    "submitButton": "SUBMIT",
+    "orderSuccessInstructions": "A 4-digit OTP code will be sent to your mobile number to confirm your order 100%.",
+    "helpingMessage": "Need help ordering? CALL US",
+    "selectZilla": "Select Zilla",
+    "selectThana": "Select Thana"
+  },
+
+  "popularCategoriesHome": {
+    "title": "CATEGORY",
+    "items": "Items"
+  },
+
+  "productsByCategory": {
+    "default": "Default",
+    "priceHighToLow": "Price: High to Low",
+    "priceLowToHigh": "Price: Low to High",
+    "mostPopular": "Most Popular",
+    "newArrivals": "New Arrivals",
+    "filtersAndSort": "Filters & Sort",
+    "home": "HOME"
+  },
+
+  "allProductsHome": {
+    "title": "ALL PRODUCTS",
+    "showMoreProducts": "Show More Products",
+    "seePreviousProducts": "See Previous Products"
+  },
+
+  "newArrivalSlideHome": {
+    "title": "NEW ARRIVAL"
+  },
+
+  "mostPopularSlideHome": {
+    "title": "MOST POPULAR PRODUCTS"
+  },
+
+  "featureHome": {
+    "featureTitle1": "On-Time Delivery",
+    "featureTitle2": "Free Shipping",
+    "featureTitle3": "24/7 Support",
+    "featureTitle4": "Easy Payment",
+    "featureTitle5": "Safe Checkout",
+    "featureTitle6": "Exclusive Deals"
+  },
+
+  "contact": {
+    "contactUsTitle": "Contact with us",
+    "contactFormTitle": "If you want to ask us something, write here",
+    "namePlaceholder": "Enter your name",
+    "emailPlaceholder": "Enter your email",
+    "numberPlaceholder": "Enter mobile number",
+    "messagePlaceholder": "Enter the topic you want to write here",
+    "sendMessageButton": "Send Message"
+  },
+
+  "footer": {
+    "aboutUs": "About Us",
+    "contact": "Contact Us",
+    "intellectualProperty": "Intellectual Property",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms Of Service",
+    "refundPolicy": "Refund Policy",
+    "paymentPolicy": "Payment Policy",
+    "shippingPolicy": "Shipping Policy",
+    "signUp": "SignUp",
+    "logIn": "LogIn",
+    "deliveryPartner": "Delivery Partner",
+    "paymentPartner": "Payment Partner",
+    "socialMedia": "Social Media"
+  }
+}
