@@ -60,8 +60,8 @@ const PopularCategories = () => {
     <div className="bg-light dark:bg-dark text-light dark:text-dark mt-8">
       <div className="w-full h-full max-w-[100%] sm:max-w-[640px] md:max-w-[768px] lg:max-w-[1024px] xl:max-w-[1280px] 2xl:max-w-[1536px] mx-auto px-2.5 md:px-5 lg:px-0 pb-5 lg:pb-10">
         
-        <div className="tittle flex justify-center items-center gap-5 mb-8">
-          {/* line0" /> */}
+        {/* <div className="tittle flex justify-center items-center gap-5 mb-8">
+          {/* line0" /> /}
           <motion.div 
             className="tittleLine h-[3px] w-full mt-1.5 bg-red-500"
             initial={{ x: "-100%", opacity: 0 }}
@@ -75,14 +75,14 @@ const PopularCategories = () => {
             direction="top"
             className="text-xl md:text-2xl lg:text-3xl font-bold"
           />
-          {/* line0 " /> */}
+          {/* line0 " /> *}
           <motion.div 
             className="tittleLine h-[3px] w-full mt-1.5 bg-red-500"
             initial={{ x: "100%", opacity: 0 }}
             whileInView={{ x: 0, opacity: 1 }}
             transition={{ duration: 0.5, ease: "easeOut", delay: 0.3 }}
           />
-        </div>
+        </div> */}
         
         <div className="relative w-full h-full">
           {popularCategories?.length > 0 ? (
